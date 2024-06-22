@@ -1,5 +1,5 @@
 # PPE Anki flashcards
-Currently contains flashcards for each first-year module in PPE at Oxford. Only has the topics which I learned for Prelims:
+Contains my flashcards for each first-year module in PPE at Oxford. Only has the topics which I learned for Prelims:
 - Philosophy
   - Moral (just definitions)
   - General (personal identity and problem of evil)
@@ -11,3 +11,5 @@ Currently contains flashcards for each first-year module in PPE at Oxford. Only 
   - Micro
   - Macro
   - Probability & statistics
+
+For my notes and problem sheets, see PPE notes. For tutorial essays, see [my website](https://rohanselvaradov.netlify.app/academic).
