@@ -12,4 +12,4 @@ Contains my flashcards for each first-year module in PPE at Oxford. Only has the
   - Macro
   - Probability & statistics
 
-For my notes and problem sheets, see PPE notes. For tutorial essays, see [my website](https://rohanselvaradov.netlify.app/academic).
+For my notes and problem sheet solutions, see [PPE notes](https://github.com/selvaradov/ppe-notes). For tutorial essays, see [my website](https://rohanselvaradov.netlify.app/academic).
